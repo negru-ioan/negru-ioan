@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Bine ai venit pe profilul meu GitHub!
-
-Sunt Ioan, și acesta este profilul meu GitHub. Aici vei găsi diverse proiecte pe care le-am realizat.
+Aici vei găsi diverse proiecte pe care le-am realizat.
 
 ### Despre mine 👤
 
