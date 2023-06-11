@@ -34,7 +34,7 @@ Pentru a vedea mai multe detalii despre aceste proiecte și altele, te invit să
 ### Contacte 📬
 Dacă dorești să iei legătura cu mine sau să discutăm despre proiecte interesante, poți să mă contactezi prin următoarele metode:
 
-[Website](http://negru-ioan.com)  |  [LinkedIn](https://www.linkedin.com/in/ioan-negru-7b0730226/)  |  [Email: negruioan@duck.com](negruioan@duck.com)
+[Website](http://negru-ioan.com)  |  [LinkedIn](https://www.linkedin.com/in/ioan-negru-7b0730226/)  |  [Email: negruioan@duck.com](mailto:negruioan@duck.com)
 
 Apreciez feedback-ul și contribuțiile, așa că nu ezita să mă contactezi.
 
