@@ -24,10 +24,9 @@ Sunt un web developer pasionat de Front-End. Îmi place să explorez și să în
 ### Proiecte 🚀
 
 În acest profil, vei găsi diverse proiecte la care am lucrat. Iată câteva dintre ele:
-
-    -[Filmsero](http://negru-ioan.rf.gd/): Găsiți informații detaliate, recenzii și recomandări a filmelor și serialelor.
-    -[Riga Crypto](http://filmsero.42web.io/): Aflați ultimele știri, prețuri, schimburi și multe altele despre criptomonede.
-    -[Endgames](https://negru-ioan.github.io/Endgames/): Descoperiți nformații utile despre jocuri gratuite.
+- [Filmsero](http://negru-ioan.rf.gd/): Găsiți informații detaliate, recenzii și recomandări a filmelor și serialelor.
+- [Riga Crypto](http://filmsero.42web.io/): Aflați ultimele știri, prețuri, schimburi și multe altele despre criptomonede.
+- [Endgames](https://negru-ioan.github.io/Endgames/): Descoperiți informații utile despre jocuri gratuite.
 
 Pentru a vedea mai multe detalii despre aceste proiecte și altele, te invit să explorezi repository-urile mele.
 
