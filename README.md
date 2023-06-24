@@ -33,7 +33,7 @@ To see more details about these projects and others, I invite you to explore my 
 ### Contact 📬
 If you would like to get in touch with me or discuss interesting projects, you can contact me through the following methods:
 
-[Website](http://negru-ioan.com)    |    [LinkedIn](https://www.linkedin.com/in/ioan-negru-7b0730226/)    |    [Email: negruioan@duck.com](mailto:negruioan@duck.com)
+[Website](http://negru-ioan.com)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/ioan-negru-7b0730226/)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Email: [negruioan@duck.com](mailto:negruioan@duck.com)
 
 I appreciate feedback and contributions, so feel free to reach out to me.
 
