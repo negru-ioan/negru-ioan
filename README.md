@@ -24,9 +24,9 @@ I am a passionate Front-End web developer. I enjoy exploring and learning new th
 ### Projects 🚀
 
 In this profile, you will find various projects I have worked on. Here are a few of them:
-- [Filmsero](http://negru-ioan.rf.gd/): &nbsp;Find detailed information, reviews, and recommendations for movies and TV shows.
+- [Filmsero](http://negru-ioan.rf.gd/): &nbsp;&nbsp;&nbsp;&nbsp;Find detailed information, reviews, and recommendations for movies and TV shows.
 - [Riga Crypto](http://filmsero.42web.io/): &nbsp;Get the latest news, prices, exchanges, and more about cryptocurrencies.
-- [Endgames](https://negru-ioan.github.io/Endgames/): &nbsp;Discover useful information about free games.
+- [Endgames](https://negru-ioan.github.io/Endgames/): &nbsp;&nbsp;Discover useful information about free games.
 
 To see more details about these projects and others, I invite you to explore my repositories.
 
