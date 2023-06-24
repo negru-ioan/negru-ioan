@@ -1,4 +1,4 @@
-### Bună! 👋
+### Hello! 👋
 
 <!--
 **negru-ioan/negru-ioan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,27 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Bine ai venit pe profilul meu GitHub!
-Aici vei găsi diverse proiecte pe care le-am realizat.
+Welcome to my GitHub profile!
+Here you will find various projects I have worked on.
 
-### Despre mine 👤
+### About me 👤
 
-Sunt un web developer pasionat de Front-End. Îmi place să explorez și să învăț lucruri noi în domeniul tehnologic. Sunt interesat de dezvoltarea interferețelor de utilizator, design responsiv și de optimizare și performanță.
+I am a passionate Front-End web developer. I enjoy exploring and learning new things in the field of technology. I am interested in user interface development, responsive design, and optimization and performance.
 
-### Proiecte 🚀
+### Projects 🚀
 
-În acest profil, vei găsi diverse proiecte la care am lucrat. Iată câteva dintre ele:
-- [Filmsero](http://negru-ioan.rf.gd/): Găsiți informații detaliate, recenzii și recomandări a filmelor și serialelor.
-- [Riga Crypto](http://filmsero.42web.io/): Aflați ultimele știri, prețuri, schimburi și multe altele despre criptomonede.
-- [Endgames](https://negru-ioan.github.io/Endgames/): Descoperiți informații utile despre jocuri gratuite.
+In this profile, you will find various projects I have worked on. Here are a few of them:
+- [Filmsero](http://negru-ioan.rf.gd/): Find detailed information, reviews, and recommendations for movies and TV shows.
+- [Riga Crypto](http://filmsero.42web.io/): Get the latest news, prices, exchanges, and more about cryptocurrencies.
+- [Endgames](https://negru-ioan.github.io/Endgames/): Discover useful information about free games.
 
-Pentru a vedea mai multe detalii despre aceste proiecte și altele, te invit să explorezi repository-urile mele.
+To see more details about these projects and others, I invite you to explore my repositories.
 
-### Contacte 📬
-Dacă dorești să iei legătura cu mine sau să discutăm despre proiecte interesante, poți să mă contactezi prin următoarele metode:
+### Contact 📬
+If you would like to get in touch with me or discuss interesting projects, you can contact me through the following methods:
 
 [Website](http://negru-ioan.com)  |  [LinkedIn](https://www.linkedin.com/in/ioan-negru-7b0730226/)  |  [Email: negruioan@duck.com](mailto:negruioan@duck.com)
 
-Apreciez feedback-ul și contribuțiile, așa că nu ezita să mă contactezi.
+I appreciate feedback and contributions, so feel free to reach out to me.
 
-Mulțumesc că ai vizitat profilul meu GitHub!
+Thank you for visiting my GitHub profile!
